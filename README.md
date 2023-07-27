@@ -7,4 +7,4 @@ Tecgnologíco de Costa Rica
 Creado por: 
 
             Aarón Piñar Mora 
-            
+            Alvaro Moreira Villaloboz
