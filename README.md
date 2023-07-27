@@ -1,0 +1,2 @@
+# AlgoritmosGeneticos
+2PYR_AnalisisALlgoritmos_2022
